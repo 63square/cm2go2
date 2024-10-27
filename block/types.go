@@ -1,0 +1,24 @@
+package block
+
+const (
+	NOR byte = iota
+	AND
+	OR
+	XOR
+	BUTTON
+	FLIPFLOP
+	LED
+	SOUND
+	CONDUCTOR
+	CUSTOM
+	NAND
+	XNOR
+	RANDOM
+	TEXT
+	TILE
+	NODE
+	DELAY
+	ANTENNA
+	CONDUCTOR_V2
+	LED_MIXER
+)
